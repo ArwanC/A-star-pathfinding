@@ -6,7 +6,7 @@ The heuristic function implemented is the Manhattan distance (also called Taxica
 
 Insert path finding animation
 
-Commands:
+## Commands:
 * 'Space' - Randomize grid with 25% obstacle probability
 * 'Return' - Start path finding algorithm
 * Right-click - Set cell as finish zone
