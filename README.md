@@ -6,6 +6,8 @@ The heuristic function implemented is the Manhattan distance (also called Taxica
 
 Insert path finding animation
 
+The black circles represent obstacles. Light blue ones are part of the closed set (a set of cells that the algorithm already visited). Dark blue ones are part of the open set (a set of cells that the algorithm can potentialy consider to look at next). The red circles represent the shortest path at a given time. 
+
 ## Commands:
 * 'Space' - Randomize grid with 25% obstacle probability
 * 'Return' - Start path finding algorithm
@@ -13,4 +15,4 @@ Insert path finding animation
 * Left-click - Set cell as starting zone
 * Mouse-drag - Set cells as obstacles
 * 'e' - Toggle between adding obstacle and removing obstacles when mouse-dragging
-* 'r' - Reset grid by removing all obstacles and open and closed set visualization
+* 'r' - Reset grid by removing all obstacles and open and closed set visualizations
